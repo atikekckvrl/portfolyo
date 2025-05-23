@@ -1,7 +1,9 @@
 {
-  "name": "portfolio-website",
-  "version": "0.1.0",
+  "name": "my-portfolio",
+  "version": "1.0.0",
   "private": true,
+  "author": "Atike Küçükvarol",
+  "description": "Kişisel portfolyo websitesi. Next.js, Tailwind ve Three.js ile geliştirildi.",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -12,9 +14,10 @@
     "@next/third-parties": "^14.2.5",
     "@vercel/analytics": "^1.2.2",
     "@vercel/speed-insights": "^1.0.11",
-    "next": "14.1.1",
-    "react": "^18",
-    "react-dom": "^18",
+    "next": "^14.1.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-icons": "^5.5.0",
     "sharp": "^0.33.0"
   },
   "devDependencies": {
